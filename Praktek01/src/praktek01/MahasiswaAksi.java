@@ -18,5 +18,6 @@ public class MahasiswaAksi {
         Harry.IPK=3.4;
         
         Harry.cetakInfo();
+        
     }
 }
